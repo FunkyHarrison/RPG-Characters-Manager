@@ -1,4 +1,4 @@
-# RPG Characters Manager
+# RPG Character Manager
 
 A command-line Python application for managing RPG characters.
 
